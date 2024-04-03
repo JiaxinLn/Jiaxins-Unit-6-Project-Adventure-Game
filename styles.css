@@ -1,0 +1,53 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: url('https://miro.medium.com/v2/resize:fit:1400/1*5KLA_cbhXiSVTVUBL6Ex1w.png') center/cover fixed no-repeat;
+    color: white;
+}
+
+.Intro-img{
+    height: 350px;
+    margin-left: 27em;
+}
+
+img{
+	height:350px;
+}
+
+.title {
+    font-size: 4em;
+    margin-top: 10px;
+    color: crimson;
+    background-color: darkblue;
+    text-align: center;
+}
+
+.intro {
+    font-size: 2em;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: black;
+}
+
+.button {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.button button {
+    background-color: #333;
+    color: #fff;
+    font-size: 0.8em;
+    padding: 8px 15px;
+    margin: 0 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.treasure-img {
+    max-width: 60%;
+}
+
+.Part-One1, .Part-One2, .Filler, .Part-Two1, .Part-Two2, .Story-Ending1, .Story-Ending2 {
+    display: none;
+    text-align: center;
+}
